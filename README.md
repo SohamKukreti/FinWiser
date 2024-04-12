@@ -1,6 +1,7 @@
 # FinWiser
 
 Welcome to FinWiser, your go-to financial analysis tool! This repository houses the source code for FinWiser, a comprehensive platform designed to empower users with financial insights and analysis.
+View the [project demo](https://www.youtube.com/watch?v=isiL4_IwwVU).
 
 ## Features
 
